@@ -3,3 +3,15 @@ body {
   background-size: cover;
   color: #ABA17F;
 }
+
+#result {
+  padding-top: 60%;
+  padding-left: 50%;
+
+}
+
+h3 {
+  font-size: 2em;
+  letter-spacing: 2px;
+  word-spacing: 7px;
+}
