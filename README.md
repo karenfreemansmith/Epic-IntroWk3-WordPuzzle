@@ -1,7 +1,4 @@
-## Technologies Used
-HTML, CSS
-
-# Voter Information
+# Word Puzzle
 Version 0.0.1: August 16, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and and [Katy Henning](https://katycodes.github.io/portfolio)
 
